@@ -3,7 +3,7 @@ Company: CODTECH IT SOLUTIONS
 
 Name: RUSWETHA KUNIPALLI
 
-ID: CT04WY01
+ID: CT04WX124
 
 Domain: Full Stack Web Development
 
@@ -13,7 +13,9 @@ Mentor:NEELA SANTHOSH
 
 Output:
 
-Image Image Image
+![Screenshot 2025-03-21 104310](https://github.com/user-attachments/assets/0eb5ffba-c5b0-4cfe-81d6-767d464a1940)
+![Screenshot 2025-03-21 104414](https://github.com/user-attachments/assets/c16be2c9-9b57-4f88-bf2a-8d1141afc5e3)
+
 
 Description of the project:
 
